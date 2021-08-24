@@ -4,7 +4,7 @@
 # naturales25: string -> string
 #No toma ningun valor
 #Devuelve los primeros 25 naturales pares
-# entrada: none, salida: "2, 4, 6, ...., 24"
+# entrada: none, salida: "2, 4, 6, ...., 48"
 
 def naturales25 (n = 0, contador = 25):
     if 0 == contador:

@@ -56,7 +56,7 @@ def my_division ():
     
     print(n / m)
 
-o = int (input((" 1. Sum \n 2. Rest \n 3. Product \n 4. Division \n ")))
+o = int (input(" 1. Sum \n 2. Rest \n 3. Product \n 4. Division \n "))
 
 def option (o):
 
